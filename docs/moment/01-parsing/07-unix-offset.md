@@ -5,6 +5,9 @@ signature: |
   moment(Number);
 ---
 
+---
+QQ
+
 
 Similar to `new Date(Number)`, you can create a moment by passing an integer value representing the number of *milliseconds* since the Unix Epoch (Jan 1 1970 12AM UTC).
 
